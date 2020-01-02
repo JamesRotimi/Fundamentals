@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/HMCTS/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/451-prd/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/rd-professional-api-master/rd-professional-api-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/HMCTSPro/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/HMTCS/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Jacoco/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Quartz/rd-quartz-data-sync/sidam-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-252-PUT/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-252-USER-Profile/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-255-USERPROFILE/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-320/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-352/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-395U/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-418/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-419/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-430/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-450/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-451/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-451P/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-451_1/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-460/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-475/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-475_PS/rd-profile-sync" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-529/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-529_2/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-539/rd-profile-sync" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-552/rd-data-migration-tool" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-642/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-702/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC-705/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RDCC_451_B/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/REfDATA-278/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/RefDATA-Swagger/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/UP345/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/USERPRO-345N/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/USERPRO345/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/USERPRO345UPD/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/UserProfile/rd-user-profile-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/clmbxr2" value="PREVIEW" />
+        <entry key="$USER_HOME$/jacocoTest/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/profilesync/rd-profile-sync" value="PREVIEW" />
+        <entry key="$USER_HOME$/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/rdcc-643/rd-profile-sync" value="PREVIEW" />
+        <entry key="$USER_HOME$/rdcc-676/rd-professional-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/sync/rd-profile-sync" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
